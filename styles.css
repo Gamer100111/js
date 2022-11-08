@@ -1,0 +1,24 @@
+.main {
+	margin: auto;
+	width: 1200px;
+}
+
+.icons-wrap {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+.icon {
+	width: 400px;
+	text-align: center;	
+	text-transform: uppercase;
+}
+
+.icon .image img {
+	width: 200px;
+}
+
+.click {
+	
+}
