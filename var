@@ -1,0 +1,11 @@
+при ошибке код дальше не работает
+с var не работаем
+''типы даннных''
+1-строка string
+2-число number
+3-bigInt большое число
+4-boolean -true/false 1/0
+5-undefined
+6-null
+7-symbol
+8-object
